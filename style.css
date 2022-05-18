@@ -67,7 +67,7 @@ body {
   align-items: center;
   flex-direction: column;
   width: 12.5rem;
-  height: 11.563rem;
+  height: 12.188rem;
   background: rgb(0,35,163);
   background: linear-gradient(90deg, rgba(0,35,163,1) 35%, rgba(255,255,0,1) 100%, rgba(0,212,255,1) 100%);
   transition: all .5s;
