@@ -22,8 +22,8 @@ body {
   background: url(https://images6.alphacoders.com/115/1159950.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 30px;
-  
+  padding: 1rem;
+  overflow: hidden;
 }
 
 .keeper {
@@ -67,8 +67,8 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 200px;
-  height: 195px;
+  width: 12.5rem;
+  height: 12.188rem;
   background: rgb(0,35,163);
   background: linear-gradient(90deg, rgba(0,35,163,1) 35%, rgba(255,255,0,1) 100%, rgba(0,212,255,1) 100%);
   transition: all .5s;
@@ -76,12 +76,12 @@ body {
 }
 
 .player img {
-  height: 150px;
+  height: 9.375rem;
   width: 100%;
 }
 
 .player-info {
-  font-size: 15px;
+  font-size: 0.938rem;
   text-align: center;
   color: white;
 }
